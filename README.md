@@ -48,3 +48,7 @@ Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Sién
 ## Licencia
 
 Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
+
+---
+
+Atribución: Este proyecto fue desarrollado por Nicolás Urrego y está disponible en GitHub como recurso abierto.
